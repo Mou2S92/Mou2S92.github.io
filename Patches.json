@@ -1,7 +1,7 @@
 {
   "patches": [
     {
-      "files": [ "Untitled-1.png.png" ],
+      "files": [ "Untitled-1.png" ],
       "folder": "game/",
       "version": 0.1,
       "save_as": "Untitled-1.png"
